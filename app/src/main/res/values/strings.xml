@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kilina-4.3</string>
+    <string name="endDate">Дата-время окончания задачи:</string>
+    <string name="ok">OK</string>
+    <string name="startDate">Дата-время старта задачи:</string>
+    <string name="fail">Ошибка</string>
+    <string name="theEnd">\n Окончание: </string>
+    <string name="start"> Старт: </string>
+</resources>
